@@ -20,7 +20,7 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
 ## Esboço do Projeto
 
 <p align="center">
-  <img alt="projeto Moveis Customizados" src=".github/Mypreview.png.png" width="100%">
+  <img alt="projeto Moveis Customizados" src=".github/Mypreview.png" width="100%">
 
 ## 🚀 Tecnologias
 
