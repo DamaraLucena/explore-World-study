@@ -2,3 +2,12 @@
   margin: 0;
   padding: 0;
 }
+
+root{
+  --color-primary: #3F3D56;
+  --color-secondary: #EE24FF;
+  --color-tertiary: #828282;
+  
+  --font-family-primary: 'Montserrat', sans-serif;
+  --font-family-secondary: 'Roboto', sans-serif;
+}
